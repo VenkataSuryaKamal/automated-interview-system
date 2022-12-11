@@ -1,4 +1,4 @@
-# automated-innterview-system
+# automated-interview-system
 packages used in our projects 
 -opencv
 -flask microframework
