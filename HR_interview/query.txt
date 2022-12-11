@@ -1,0 +1,12 @@
+use sys;
+
+create table details(
+id int(11) NOT NULL AUTO_INCREMENT,
+name varchar(255),
+marks int(11),
+attentive varchar(255),
+beg_pic LONGBLOB,
+end_pic LONGBLOB,
+voice LONGBLOB,
+resume LONGBLOB
+);
